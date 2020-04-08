@@ -1,0 +1,49 @@
+{
+    "name": "itinerisltd/kirki-bedrock-bridge",
+    "type": "wordpress-muplugin",
+    "description": "Make Kirki works on Bedrock",
+    "keywords": [
+        "bedrock",
+        "kirki",
+        "wordpress",
+        "wp"
+    ],
+    "homepage": "https://github.com/itinerisltd/kirki-bedrock-bridge/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Itineris Limited",
+            "email": "dev@itineris.co.uk",
+            "homepage": "https://itineris.co.uk/",
+            "role": "Company"
+        },
+        {
+            "name": "Tang Rufus",
+            "email": "tangrufus@gmail.com",
+            "homepage": "https://typist.tech/",
+            "role": "Developer"
+        },
+        {
+            "name": "Dan Lapteacru",
+            "email": "danlapteacru@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^7.2"
+    },
+    "require-dev": {
+        "roave/security-advisories": "dev-master"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1.x-dev"
+        }
+    },
+    "prefer-stable": true,
+    "support": {
+        "email": "dev@itineris.co.uk",
+        "issues": "https://github.com/ItinerisLtd/kirki-bedrock-bridge/issues",
+        "source": "https://github.com/ItinerisLtd/kirki-bedrock-bridge"
+    }
+}
