@@ -3,7 +3,7 @@
  * Plugin Name:     Kirki Bedrock Bridge
  * Plugin URI:      https://github.com/ItinerisLtd/kirki-bedrock-bridge/
  * Description:     Make Kirki work on Bedrock.
- * Version:         0.1.0
+ * Version:         0.1.1
  * Author:          Itineris Limited
  * Author URI:      https://www.itineris.co.uk/
  * Text Domain:     kirki-bedrock-bridge
