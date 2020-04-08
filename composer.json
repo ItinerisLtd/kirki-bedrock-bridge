@@ -1,7 +1,7 @@
 {
     "name": "itinerisltd/kirki-bedrock-bridge",
     "type": "wordpress-muplugin",
-    "description": "Make Kirki works on Bedrock",
+    "description": "Make Kirki work on Bedrock",
     "keywords": [
         "bedrock",
         "kirki",
